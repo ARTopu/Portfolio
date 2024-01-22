@@ -20,7 +20,7 @@ const data = [
   {
     id:2,
     image:IMG2,
-    title:"Blop Web Application [Full-Stack MERN project]",
+    title:"Blog Web Application [Full-Stack MERN project]",
     github:"https://github.com/ARTopu/Blog-app",
     demo: "https://github.com/ARTopu/Blog-app"
   },
