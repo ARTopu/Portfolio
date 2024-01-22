@@ -1,7 +1,7 @@
 import React from 'react'
 import "./portfolio.css"
-import IMG1 from "../../assets/portfolio1.jpg"
-import IMG2 from "../../assets/portfolio2.jpg"
+import IMG1 from "../../assets/portfolio1.png"
+import IMG2 from "../../assets/portfolio2.png"
 import IMG3 from "../../assets/portfolio3.jpg"
 import IMG4 from "../../assets/portfolio4.jpg"
 import IMG5 from "../../assets/portfolio5.jpg"
@@ -13,23 +13,23 @@ const data = [
   {
     id:1,
     image:IMG1,
-    title:"E-Learning [ASP.NET]",
-    github:"https://github.com/ARTopu/E-Learning/tree/main/E-Learning",
-    demo: "https://github.com/ARTopu/E-Learning/tree/main/E-Learning"
+    title:"Bulky_MVC [ASP.NET Core (.NET 8)]",
+    github:"https://github.com/ARTopu/Bulky_MVC",
+    demo: "https://github.com/ARTopu/Bulky_MVC"
   },
   {
     id:2,
     image:IMG2,
-    title:"Face Eye Detection [Python]",
-    github:"https://github.com/ARTopu/Face_Eye_Detection",
-    demo: "https://github.com/ARTopu/Face_Eye_Detection"
+    title:"Blop Web Application [Full-Stack MERN project]",
+    github:"https://github.com/ARTopu/Blog-app",
+    demo: "https://github.com/ARTopu/Blog-app"
   },
   {
     id:3,
     image:IMG3,
-    title:"Object Detection [Python]",
-    github:"https://github.com/ARTopu/Object_Detection",
-    demo: "https://github.com/ARTopu/Object_Detection"
+    title:"Bazar_Sadai [Full-Stack MERN E-commerce Project]",
+    github:"https://github.com/ARTopu/Bazar-Sadai",
+    demo: "https://github.com/ARTopu/Bazar-Sadai"
   },
   {
     id:4,
